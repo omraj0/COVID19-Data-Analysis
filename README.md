@@ -1,11 +1,35 @@
-# COVID19 Data Analysis Using Python
+# COVID-19 Data Analysis
 
-### Coursera Project
+## Overview
+This project analyzes COVID-19 infection rates in various countries, correlating them with factors such as GDP per capita and social support. Visualizations include scatter plots and pie charts to illustrate relationships and totals.
 
-The course materials belong entirely to Coursera. Also, the COVID19 dataset, published by John Hopkins University. The answers are the only things that show my trials.
+## Features
+- Data visualization using Matplotlib and Seaborn
+- Correlation analysis of infection rates with economic and social factors
+- Detailed country-wise analysis
 
-Course Objectives:
-===================
-Merge the two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-Great thanks to the course instructor: Ahmad Varasteh
+## Setup
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/USERNAME/COVID19-Data-Analysis.git
+   ```
+   
+2. Clone this repository:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+3. Clone this repository:
+   ```bash
+   python analysis.py
+   ```
+   
+## Contribution
+Contributions are welcome! Please fork this repository and submit pull requests for improvements or additional features. Make sure to follow the coding standards and include relevant tests with your contributions.
