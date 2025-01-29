@@ -18,7 +18,7 @@ This project analyzes COVID-19 infection rates in various countries, correlating
 ## Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/USERNAME/COVID19-Data-Analysis.git
+   git clone https://github.com/omraj0/COVID19-Data-Analysis.git
    ```
    
 2. Clone this repository:
